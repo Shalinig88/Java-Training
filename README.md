@@ -1,2 +1,3 @@
 # Java-Training
-This repository contain all task given by EPAM
+This repository contains all task given by EPAM
+i have created two branches one for my practice one will store all codes regarding task given by EPAM.
